@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="fc00c861-3865-4f23-9703-dda490538cb4" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="CMS_SharepointDev.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="CMS_SharepointDev, Version=1.0.0.0, Culture=neutral, PublicKeyToken=60e80a9552fe2d1d" Namespace="CMS_SharepointDev.ViewVendorDetails" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="CMS_SharepointDev_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

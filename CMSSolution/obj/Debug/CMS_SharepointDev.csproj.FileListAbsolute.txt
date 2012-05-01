@@ -1,0 +1,5 @@
+C:\Saras\Working\CMS\CMS_SharePointSolution\CMS_SharepointDev\bin\Debug\CMS_SharepointDev.dll
+C:\Saras\Working\CMS\CMS_SharePointSolution\CMS_SharepointDev\bin\Debug\CMS_SharepointDev.pdb
+C:\Saras\Working\CMS\CMS_SharePointSolution\CMS_SharepointDev\obj\Debug\ResolveAssemblyReference.cache
+C:\Saras\Working\CMS\CMS_SharePointSolution\CMS_SharepointDev\obj\Debug\CMS_SharepointDev.dll
+C:\Saras\Working\CMS\CMS_SharePointSolution\CMS_SharepointDev\obj\Debug\CMS_SharepointDev.pdb

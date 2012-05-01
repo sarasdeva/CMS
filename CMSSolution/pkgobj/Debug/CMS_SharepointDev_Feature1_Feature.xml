@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="CMS_SharepointDev Feature1" Id="88d53f0f-375f-4266-90aa-865b7e6e87a5" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="ViewVendorDetails\Elements.xml" />
+    <ElementFile Location="ViewVendorDetails\ViewVendorDetails.webpart" />
+  </ElementManifests>
+</Feature>
